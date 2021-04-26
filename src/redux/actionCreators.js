@@ -12,4 +12,4 @@ export const deletePlace = key =>{
         type: actionTypes.DELETE_PLACE,
         payload: key
     }
-}
+} 
